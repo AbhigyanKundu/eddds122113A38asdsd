@@ -4,3 +4,4 @@ This is a story in your life. You have added a camera component in your previous
 
 This is a challenging endeavor and I am sure you will make a great game. Let’s go!
 
+Have fun! When you will hit the obstacle you will lose!
